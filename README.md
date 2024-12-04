@@ -1,7 +1,3 @@
----
-permalink: /
-title: "Colin's Website"
----
 
 # Welcome to My Profile!
 *4th Year Psychology Specialist @ University of Toronto*
@@ -32,7 +28,9 @@ Wilfrid Laurier University *May 2009*
 
 - ICPSR open source dataset; 2022 US National Wellbeing Survey, completed between May 10 - September 5, 2022. 
 - A cross sectional study involving 5,666 adults (ages 18-64).
-- Relationship between resilience (Brief Resilience Scale), life satisfaction (SWLS) and mobility expectations was analyzed. Sex differences were explored separately for resilience and life satisfaction.   
+- Relationship between resilience (Brief Resilience Scale), life satisfaction (SWLS) and mobility expectations was analyzed. Sex differences were explored separately for resilience and life satisfaction.
+
+[Original Dataset](https://www.icpsr.umich.edu/web/NAHDAP/studies/38964/summary)
 
 ### Results
 
@@ -57,7 +55,8 @@ Wilfrid Laurier University *May 2009*
 ### Impact
 
 - The relationship between higher social mobility expectations and greater life satisfaction was reversed after COVID-19
-- Notably, post COVID-19 uncertainty has been linked to cautious reversals in SES aspirations in college students (Rogers et al., 2023). 
+- These results 
+- 
 
 
 
