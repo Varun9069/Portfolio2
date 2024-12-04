@@ -3,46 +3,36 @@ permalink: /
 title: "Colin's Website"
 ---
 
-# About me 👋 
-Hi everyone, my name is Colin 😊 I'm a second-year PhD student in the social and personality psychology program at the University of Toronto 🍁
+# Varun Tripathi
+*4th Year Psychology Specialist @ University of Toronto*
 
 ## Research Interests
-- Prejudice and Discrimination 😒
-- Diversity and Representation 🧑🏿‍🤝‍🧑🏻🌎
-- LGBTQ+ 🌈
-- Mental Well-being 😄
-- Measurement 📏
+- Childhood Adversity 
+- Emotion Regulation 
+- Maladaptive Coping
+- Risk & Resilience Factors
+- Mental Health & Well-being
 
 ## Education
-**Ph.D.** Social-Personality Psychology  
-University of Toronto *May 2027 (Expected)*
+**BSc.**  
+University of Toronto *May 2025 (Expected)*
 
-**M.A.** General-Experimental Psychology  
-Wake Forest University *May 2023*			        		
-
-**B.A.** Psychology (Honors)  
-University at Buffalo, SUNY *May 2020*
+**BBA**   
+Wilfrid Laurier University *May 2009*			        		
 
 
-## Projects in Preparation
-### What Types of Representation Do Marginalized Group Members Value More?
+## Recent Project
+### Do Expectations of Upward Social Mobility Post Covid-19 Predict Higher Life Satisfaction?
 
-- We found that when marginalized group members talk about representation, they either refer to someone who shares their identity and/or someone who shares their values
-- So we developed a scale to measure identity-based and values-based representation and validated it in a workplace context
-- Both types of representation are correlated with well-being and performance outcomes
-![rep](/assets/img/Main.png)
-- Interestingly, people generally see more colleagues and leaders who embody their core values than the ones who share their identity
-- However, only those who identify as stigmatized report seeing less identity-based representation, whereas non-stigmatized people see equal levels of identity and values-based representation
-![rep2](/assets/img/rep2.png)
+- In times of socioeconomic and health system stability, higher social mobility expectations are associated with greater life satisfaction (Dolan et al., 2020).
+- However, it is unclear whether the future uncertainty caused by a global health crises affects this relationship. 
+- Using data collected immediately after COVID-19, I investigated the relationship between social mobility expectations and life satisfaction while taking resilience into account by using multiple regression. Sex differences were also considered. 
 
+### Approach
 
-### What Psychological Barriers Prevent LGB People from Coming Out?
-
-- We used a national probability longitudinal dataset to explore the relationship between minority stressors (i.e., unique stressors experienced by sexual minorities) and coming out to a straight friend
-- Suprisingly, the more everyday discrimination one experienced in the previous year, the more they likely they are going to come out in the next year
-- This finding still holds after taking into account other minority stressors, demographics, perceived sexual orientation visibility, and disclosure history
-
-![lgb](/assets/img/lgb.png)
+- ICPSR open source dataset; 2022 US National Wellbeing Survey, completed between May 10 - September 5, 2022 () 
+- A cross sectional study involving 5,666 adults (ages 18-64).
+- Variables analyzed include resilience (Brief Resilience Scale), life satisfaction (SWLS), mobility expectations and sex  
 
 ### Does Ingroup Prejudice Hurt Asian Americans More?
 
