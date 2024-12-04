@@ -3,7 +3,7 @@ permalink: /
 title: "Colin's Website"
 ---
 
-# Varun Tripathi
+# Welcome to My Profile!
 *4th Year Psychology Specialist @ University of Toronto*
 
 ## Research Interests
@@ -30,13 +30,16 @@ Wilfrid Laurier University *May 2009*
 
 ### Approach
 
-- ICPSR open source dataset; 2022 US National Wellbeing Survey, completed between May 10 - September 5, 2022 () 
+- ICPSR open source dataset; 2022 US National Wellbeing Survey, completed between May 10 - September 5, 2022. 
 - A cross sectional study involving 5,666 adults (ages 18-64).
 - Variables analyzed include resilience (Brief Resilience Scale), life satisfaction (SWLS), mobility expectations and sex  
 
-### Does Ingroup Prejudice Hurt Asian Americans More?
+### Results
 
-- We examined how Asian Americans feel after experiencing ingroup prejudice (i.e., prejudice that comes from ingroup members)
+- Mobility expectations and resilience both independently predicted life satisfaction.
+- Higher mobility expectations predicted lower life satisfaction, even after taking resilience into account
+- ![image](https://github.com/user-attachments/assets/4518edce-4930-4621-b4b2-a2ab2f4b9eaf)
+
 - Results showed that Asian Americans who were rejected by Asian peers felt less positive towards Asians compared to their baseline attitudes, whereas experiencing prejudice from White peers did not change participants’ attitudes towards Whites
 - Expectation and prejudice attribution are not related to this difference
 
